@@ -1,6 +1,7 @@
 require 'spec_helper'
 
 describe "Static pages" do
+  puts "Static pages"
 
   describe "Home page" do
     it "should have the h1 'Sample App'" do
